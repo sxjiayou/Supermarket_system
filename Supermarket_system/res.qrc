@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/login.png</file>
+        <file>image/关闭.png</file>
+        <file>ion/add.png</file>
+        <file>ion/close.png</file>
+        <file>ion/minus-bold.png</file>
+        <file>ion/订单.png</file>
+        <file>ion/客服.png</file>
+        <file>ion/用户登录 .png</file>
+        <file>ion/超市商品-变.png</file>
+    </qresource>
+</RCC>
