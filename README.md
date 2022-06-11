@@ -1,10 +1,10 @@
 # 超市信息管理系统开发文档
 
-##文件说明
--Supermarket_system:Qt Creator源文件
--超市信息管理系统免安装版：拿来即用，有可执行程序（配合mysql使用，否则连接不上数据库无法打开）
--shop.sql：数据库文件
+## 文件说明 
 
+- Supermarket_system:Qt Creator源文件
+- 超市信息管理系统免安装版：拿来即用，有可执行程序（配合mysql使用，否则连接不上数据库无法打开）
+- shop.sql：数据库文件
 
 ## 一、环境及技术
 
